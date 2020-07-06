@@ -1,0 +1,163 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H1M34.853S\" maxSegmentDuration=\"PT0H0M2.833S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H1M34.853S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"1280\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"16:9\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17889139138580031vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"1280\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"1313538\" FBQualityClass=\"hd\" FBQualityLabel=\"1280w\" FBPlaybackResolutionMos=\"0:100.00,480:99.15,640:98.72,1280:98.18\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_556574381890797_2821884702544594596_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=109&amp;_nc_ohc=joJwPmyRi8oAX9iQIMW&amp;oh=0705d60d614209fe6a18049980eeac87&amp;oe=5F0336F1</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"909-1504\" FBFirstSegmentRange=\"1505-93096\" FBSecondSegmentRange=\"93097-292420\" FBPrefetchSegmentRange=\"1505-292420\">\n      <Initialization range=\"0-908\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17889139189580031v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"570\" height=\"320\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"359831\" FBQualityClass=\"sd\" FBQualityLabel=\"570w\" FBPlaybackResolutionMos=\"0:100.00,480:95.76,640:93.59,1280:91.36\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106346766_899045847280671_6117338873938275816_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=EcSlqYIj9S4AX-I4hPk&amp;oh=1d7e01acf3eeecab52f06e78d59f5b88&amp;oe=5F031773</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"910-1505\" FBFirstSegmentRange=\"1506-28691\" FBSecondSegmentRange=\"28692-87307\" FBPrefetchSegmentRange=\"1506-87307\">\n      <Initialization range=\"0-909\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17889138886580031ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"130020\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106392921_586732488650031_9033914829521770409_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=B350-Bk3UwEAX8lRXnb&amp;oh=d588a01cf8448e4712264770038d9404&amp;oe=5F02ABAC</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1473\" FBFirstSegmentRange=\"1474-34459\" FBSecondSegmentRange=\"34460-66525\" FBPrefetchSegmentRange=\"1474-66525\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 1138,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1138,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=78857aa02d7450fa6a8d210435f27244&oe=5F033595"
+            },
+            {
+                "config_height": 1334,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=78857aa02d7450fa6a8d210435f27244&oe=5F033595"
+            },
+            {
+                "config_height": 1921,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=78857aa02d7450fa6a8d210435f27244&oe=5F033595"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=78857aa02d7450fa6a8d210435f27244&oe=5F033595",
+        "edge_liked_by": {
+            "count": 2
+        },
+        "edge_media_preview_comment": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_media_preview_like": {
+            "count": 2,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "You can always aspire to better health. In this series, Bernard Beale will show you how to get started. We want you to get active and be healthy! \n\n#health #healthrevolution #workout #newchannel #fit\n\nVisit our website at: www.goodhealth35.com"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345321759250421909",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABcqjeErwxyxHTsM9v8A69SMBjkYx69sdfakLjgjnkn9P881HPJ8nfJ6n278egH86ysUQxru+YnGSe/+eg/nRTmwBkHjggj0PFFOwFtMRgM2MnofxAz/APWqF87sHBGM84555OD0/nUskqgEcEkcH3OBgZ9+ayJ2JfJ5x0+lO1x7al14mSLJGOOOc5BP/wCqilhYyxMT3PAHsR0zRTAJSHI7YJ+gx0571myfeP1rTHWq0nU/WlexcY86etrFqxIWIsSPvcA89ueBRUcXC8cc0VW5LXK7H//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 17
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 12
+            },
+            "followed_by_viewer": false,
+            "full_name": "35 Days to Good Health",
+            "has_blocked_viewer": false,
+            "id": "37065118062",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/103980258_250516276237547_3515623131394012930_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=1qyPnx8j4kgAX_V05WI&oh=aaf11f183e1a6290656ff6900b883a45&oe=5F28B1F6",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "good_health35"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCMQbbIHZiV",
+        "taken_at_timestamp": 1593830234,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=628fd5c25d172a4d21e7fbb6b94bc850&oe=5F02E4FE"
+            },
+            {
+                "config_height": 427,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=fe39fb9d8407bfe71fb968eee4c6716b&oe=5F02F711"
+            },
+            {
+                "config_height": 569,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=1f43f58928e70dd6f4fab5146bcff2e7&oe=5F02C7C4"
+            },
+            {
+                "config_height": 854,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=1f24769ed3cd1f4c3d6aa8a6f5acc33d&oe=5F02F260"
+            },
+            {
+                "config_height": 1138,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=78857aa02d7450fa6a8d210435f27244&oe=5F033595"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.236.607.607a/106421664_573597226679985_6515274408695959_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=i9OcpyCRZpYAX9Rb5O7&oh=bca062b4b57463885c1ee11ec37f373f&oe=5F0303F6",
+        "title": "What You Need to Know About Exercise (",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYzJjMGI3M2UyZWQ4NGRlNWI2YjFlYmQ2N2M1ZGU3NTQyMzQ1MzIxNzU5MjUwNDIxOTA5Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg3NTU0NzI4OXwyMzQ1MzIxNzU5MjUwNDIxOTA5fDIyNDg4MTU5ODZ8NDI2MGY4ZGM4MjIwNjdhOTQ4YmFmNDdmOTQzNGQwZDI5OWI1NzAxZGQ3NjI2ZGZiMjEzNjYxZmQ2NjNlYTJkMCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 94.841,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106398155_975809906209244_579467933350365747_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=HIx3Cv0ckScAX8K-1PF&oe=5F02EFFF&oh=2fa8e491e959d66230c7afae848c8130",
+        "video_view_count": 4,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

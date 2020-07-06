@@ -1,0 +1,250 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H2M51.503S\" maxSegmentDuration=\"PT0H0M2.020S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H2M51.503S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"1280\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"16:9\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17868811015851331vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"1280\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"2237763\" FBQualityClass=\"hd\" FBQualityLabel=\"1280w\" FBPlaybackResolutionMos=\"0:100.00,480:99.60,640:99.23,1280:98.27\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_2553020101627841_7604902375942342455_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=105&amp;_nc_ohc=rW7aQNg3MwoAX-372-N&amp;oh=c1d932297cb790f26233c41fd49dee3d&amp;oe=5F02B3E2</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"906-1969\" FBFirstSegmentRange=\"1970-82335\" FBSecondSegmentRange=\"82336-127542\" FBPrefetchSegmentRange=\"1970-127542\">\n      <Initialization range=\"0-905\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17868811099851331v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"604\" height=\"340\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"553346\" FBQualityClass=\"sd\" FBQualityLabel=\"604w\" FBPlaybackResolutionMos=\"0:100.00,480:92.88,640:86.12,1280:73.78\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_1158235967888079_6958884316964647179_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=EvhtZ6xfkIQAX-Jats8&amp;oh=a2b1927313fa23ed14330ddc459498d4&amp;oe=5F02C978</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"906-1969\" FBFirstSegmentRange=\"1970-35484\" FBSecondSegmentRange=\"35485-51330\" FBPrefetchSegmentRange=\"1970-51330\">\n      <Initialization range=\"0-905\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17868810835851331ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"130007\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106776299_691609298067122_8150573741646430434_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YSf3gL9odPMAX_rZ7ZC&amp;oh=521b1d9e04880aea2de80c0799c7d2cc&amp;oe=5F02BAF7</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1929\" FBFirstSegmentRange=\"1930-34846\" FBSecondSegmentRange=\"34847-67365\" FBPrefetchSegmentRange=\"1930-67365\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 746,
+            "width": 480
+        },
+        "display_resources": [
+            {
+                "config_height": 994,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2"
+            },
+            {
+                "config_height": 1165,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2"
+            },
+            {
+                "config_height": 1678,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2",
+        "edge_liked_by": {
+            "count": 8
+        },
+        "edge_media_preview_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593833467,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17889169570565087",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "237504645",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/90876602_227674078457437_2378115201292566528_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=ZDFNwtJJvmEAX_N-57T&oh=d0a6c76036a7ea9720f3c4f6728852a3&oe=5F297E9E",
+                            "username": "leticiatelles_"
+                        },
+                        "text": "Show primo!!!! \ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593834739,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18113174986136197",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "15714865321",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/65053350_893080774391652_480595828126253056_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=Ebw0BNljJyUAX9g0w_g&oh=9025f326c41e10a4b09f5cffdccbdb39&oe=5F296C5C",
+                            "username": "levicampos.oficial"
+                        },
+                        "text": "Muito obrigadopelo carinho primaaa @leticiatelles_!!! Bora Alongar haha \ud83d\ude09\ud83d\ude18",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 8,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Voc\u00ea sabe o qu\u00e3o Importante \u00e9 o Alongamento para o Bom Funcionamento do Nosso Corpo???\n.\nNeste V\u00eddeo Explico de Maneira Simples o Porqu\u00ea este Exerc\u00edcio de Flexibilidade \u00e9 Imprescind\u00edvel para Preven\u00e7\u00e3o de Les\u00f5es Articulares e Musculares!!!\n.\nD\u00e1 o PLAY \u25b6\ufe0f\u25b6\ufe0f\u25b6\ufe0f\n.\n.\n.\n.\n@levicampos.oficial \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#levicamposoficial #lifestyle #alongamento #treinoemcasa #treinohiit #vidasaudavel #saudavelegostoso #workout #workhard #021"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593833467,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1593834739,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18113174986136197",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "15714865321",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/65053350_893080774391652_480595828126253056_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=Ebw0BNljJyUAX9g0w_g&oh=9025f326c41e10a4b09f5cffdccbdb39&oe=5F296C5C",
+                                            "username": "levicampos.oficial"
+                                        },
+                                        "text": "Muito obrigadopelo carinho primaaa @leticiatelles_!!! Bora Alongar haha \ud83d\ude09\ud83d\ude18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17889169570565087",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "237504645",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/90876602_227674078457437_2378115201292566528_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=ZDFNwtJJvmEAX_N-57T&oh=d0a6c76036a7ea9720f3c4f6728852a3&oe=5F297E9E",
+                            "username": "leticiatelles_"
+                        },
+                        "text": "Show primo!!!! \ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345536560134743389",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABsquiNfmcgELgKD3J+6T+GOO3JNTsBFGFBztHJ7fX6VVSRWIyR1HH0QVFNIW6cc8kMACP7vb6+nrWbb2RPkhZJvKfjnP+eMf5FSfbAOCCT9aosoYccDqOf0qPzCONpPvTRI+Pj5cZxu6989PrVe5kOcgA8bTyen4fz60BiWBUdOOvOKc6b/AEGe9I0Vk9QXKcew/OrIeMD5hzVQIxOAM9OKseTKedrflVXFZEiWbqwf5W5BIyQMemf/AK1W2t93YH8cfl7e1YqsfU/nS5paf0zPTsaTWTDO3HX1/X/GhrKXPynI+v8A9eqbcjPfJ/nTaQadvx/4B//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 133
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 37
+            },
+            "followed_by_viewer": false,
+            "full_name": "Levi Campos",
+            "has_blocked_viewer": false,
+            "id": "15714865321",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/65053350_893080774391652_480595828126253056_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=Ebw0BNljJyUAX9g0w_g&oh=9025f326c41e10a4b09f5cffdccbdb39&oe=5F296C5C",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "levicampos.oficial"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCNBRMCheVd",
+        "taken_at_timestamp": 1593829928,
+        "thumbnail_resources": [
+            {
+                "config_height": 233,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=b1a0a4ad6841f3ce8daa976b976fae50&oe=5F02D85F"
+            },
+            {
+                "config_height": 373,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=edfb555b701f482aa1d74d6e635e74ee&oe=5F030859"
+            },
+            {
+                "config_height": 497,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=2c7efbc03f4acda94162b24c953daf1e&oe=5F032DA7"
+            },
+            {
+                "config_height": 746,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2"
+            },
+            {
+                "config_height": 994,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=f5673ba6114000ddc5c85a4de38d364f&oe=5F0320F2"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.133.480.480a/106509054_593730607811765_2615659100225529326_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DyaxsljkTkIAX-CXfT2&oh=ad52c7eb6e8b548078a01971397c2265&oe=5F03203B",
+        "title": "Vamos Alongar???",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiY2NjZjgyZjE5Y2U3NDJmOGI2NTZjNThiOWVlZDkzM2UyMzQ1NTM2NTYwMTM0NzQzMzg5Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg4MDEyMTQ4NnwyMzQ1NTM2NTYwMTM0NzQzMzg5fDIyNDg4MTU5ODZ8Nzg0NzY2OGRkNGQ1MjYzYmE0NWMxMzAzOGJkMDczMjc0ZDNiOGIyZmE3MzY5MTA4MzdkYTQ5NTgxMmE1ZDhmZCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 171.566,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106988750_1560729034106218_3430782348869622292_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=O4qd4j0TuMYAX8TMw7H&oe=5F02EAB2&oh=5c2ea8ad09f9a192d606dbcfc8c97c98",
+        "video_view_count": 21,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

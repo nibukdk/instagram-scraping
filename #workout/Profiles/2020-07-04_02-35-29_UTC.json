@@ -1,0 +1,370 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H4M4.600S\" maxSegmentDuration=\"PT0H0M2.600S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H4M4.600S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"1280\" maxFrameRate=\"30\" par=\"312:554\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17894475598533351vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"1280\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"756993\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:98.58,640:98.25,720:97.61\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_120943506039441_2194370298971742151_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=109&amp;_nc_ohc=WIuyfGMwroMAX-kHEzU&amp;oh=0bbdae01ab0d69bde26c07f7c6f3f062&amp;oe=5F02AC79</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"909-2404\" FBFirstSegmentRange=\"2405-311156\" FBSecondSegmentRange=\"311157-492601\" FBPrefetchSegmentRange=\"2405-492601\">\n      <Initialization range=\"0-908\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17894475760533351v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"312\" height=\"554\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"198393\" FBQualityClass=\"sd\" FBQualityLabel=\"312w\" FBPlaybackResolutionMos=\"0:100.00,480:96.35,640:95.28,720:93.58\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106934758_110364777282078_1636916451864531961_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=4ueUlkFrmhMAX9MEYzD&amp;oh=37c33d03fcb07517bb118d272f7199a6&amp;oe=5F02A35F</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"910-2405\" FBFirstSegmentRange=\"2406-87949\" FBSecondSegmentRange=\"87950-129703\" FBPrefetchSegmentRange=\"2406-129703\">\n      <Initialization range=\"0-909\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17894475451533351ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"129971\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"1\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/107299597_145202267192939_4758926791658647608_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=Kcl-yXc6DnEAX9oWuEk&amp;oh=7609c1624e6faae877bb47388f8450a5&amp;oe=5F03002A</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-2373\" FBFirstSegmentRange=\"2374-34881\" FBSecondSegmentRange=\"34882-67342\" FBPrefetchSegmentRange=\"2374-67342\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 1333,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=beb3f7ea15e0553ce149d9b8cb3ce80b&oe=5F03087A"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=d62a389ea97afd757e58ebfd7ac4fd4d&oe=5F031214"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=d62a389ea97afd757e58ebfd7ac4fd4d&oe=5F031214"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=d62a389ea97afd757e58ebfd7ac4fd4d&oe=5F031214",
+        "edge_liked_by": {
+            "count": 68
+        },
+        "edge_media_preview_comment": {
+            "count": 7,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593836680,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18067233103223547",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "9434225833",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106238892_275889277005522_8683873084794676967_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=vYXZbt8mk0oAX_IaOxK&oh=b67f5d4f63a904bcb565d673151f4ab0&oe=5F2B4E01",
+                            "username": "polishedupnpretty"
+                        },
+                        "text": "@fitmom4lf I'll finish this after my 20+ lb baby goes to bed... I can't breathe hold him hahaha",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593843686,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17928944389398353",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "240897969",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/101510291_620045285254521_6797700844536987648_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=tXqB5HRBhRUAX-JLmCJ&oh=edc3f3045a4cddf46624dcb544cadeaa&oe=5F286D89",
+                            "username": "zj.lauro"
+                        },
+                        "text": "\ud83e\udd29",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 68,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u201cRockabye\u201d brings the Tahitian dancer out of me. Fun fact I danced and taught Tahitian for @daislandway for over 20 years. Miss those times! For the month of July I\u2019m teaching Dance Fitness every Friday night at 6pm on Zoom.  This is my last month of dance fitness so if you are interested in taking my classes DM me. \n.\n\n#dancefitness #dance #fitness #zumba #zumbafitness #cardio #workout #fitnessmotivation #danceworkout #dancer #hiphop #dancelife #zin #groupfitness #dancefit #danceclass #zumbacommunity #health #zumbainstructor #gym #mixxedfit #dancehall #exercise #cardiodance #dancersofinstagram #dancers #fit #dancing #zumbalove"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 7
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 7,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593832948,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1593833017,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18111194539184284",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2050320004",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/105992146_932762667189194_1198027769539185556_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=LHTAwKEnFLAAX-nXmfB&oh=1c81ed8a56d09e084eb9dd1f1c6f08d6&oe=5F2C13E3",
+                                            "username": "fitmom4lf"
+                                        },
+                                        "text": "@c4tch_22 i can\u2019t take all the credit most of it is @_edwardkevin choreo with a side of Janel \ud83d\ude1c",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857825766040276",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "280402997",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106504958_2724860824438183_3854542760784461928_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=-B1oshr2dSYAX9Eppks&oh=658a1ca98163766839d7fbb0f272f97c&oe=5F29CCB2",
+                            "username": "c4tch_22"
+                        },
+                        "text": "One of your most put-together, well thought out and extremely FUN choreo!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593834086,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17849932787170187",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "14987396816",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/64689770_379169619397532_8945193297219944448_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=X-DW7AtBnM4AX9XhMli&oh=4ab44e1fdee728cc2f7bdc508fe5eefe&oe=5F29A704",
+                            "username": "_edwardkevin"
+                        },
+                        "text": "Your hips move wayyyyyyy better!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593836569,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1593836604,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17842292360300011",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2050320004",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/105992146_932762667189194_1198027769539185556_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=LHTAwKEnFLAAX-nXmfB&oh=1c81ed8a56d09e084eb9dd1f1c6f08d6&oe=5F2C13E3",
+                                            "username": "fitmom4lf"
+                                        },
+                                        "text": "@polishedupnpretty yes sis! Get it \ud83c\udf51\ud83d\udd25",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1593836680,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18067233103223547",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "9434225833",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106238892_275889277005522_8683873084794676967_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=vYXZbt8mk0oAX_IaOxK&oh=b67f5d4f63a904bcb565d673151f4ab0&oe=5F2B4E01",
+                                            "username": "polishedupnpretty"
+                                        },
+                                        "text": "@fitmom4lf I'll finish this after my 20+ lb baby goes to bed... I can't breathe hold him hahaha",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18110468809095562",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "9434225833",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106238892_275889277005522_8683873084794676967_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=vYXZbt8mk0oAX_IaOxK&oh=b67f5d4f63a904bcb565d673151f4ab0&oe=5F2B4E01",
+                            "username": "polishedupnpretty"
+                        },
+                        "text": "Thank ya needed this.  Legit had a pareo out today starting at it",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593843686,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17928944389398353",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "240897969",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/101510291_620045285254521_6797700844536987648_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=tXqB5HRBhRUAX-JLmCJ&oh=edc3f3045a4cddf46624dcb544cadeaa&oe=5F286D89",
+                            "username": "zj.lauro"
+                        },
+                        "text": "\ud83e\udd29",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345537703319610969",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABcqtW0JmQqWKsnpjkduo49O/ak8hlZt+OTxgngelSwx+WwZWH0weaa0weXBZSuOvfdnGP8APek7IauwziimyKRnHUHH+f8APrRUNlFjytrcVnwgSXzMPuYJGem7ABIH4E5/HvSG4XP3z/30aSNthLs2Bk7WB+8D/UY/HFXIiJekJDNvAVTjBz1wP0+lFVJJUkGGcMPQkGisTUyzioj1qQ1Ga3ZkhQaKBRUlH//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 2013
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 2115
+            },
+            "followed_by_viewer": false,
+            "full_name": "Janel Bustamante",
+            "has_blocked_viewer": false,
+            "id": "2050320004",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/105992146_932762667189194_1198027769539185556_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=LHTAwKEnFLAAX-nXmfB&oh=1c81ed8a56d09e084eb9dd1f1c6f08d6&oe=5F2C13E3",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "fitmom4lf"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCNBh0tpqZZ",
+        "taken_at_timestamp": 1593830129,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=d0f0ce34818e16d7abc9bf6b09d734cc&oe=5F02A17D"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=f4a51ca2bb905655945cfa17cec636f0&oe=5F02CABB"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=8de523e889b15a4a1707e17ac8a164b1&oe=5F032905"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=143e2af1e49f2c259e7b622bc5eae436&oe=5F02E584"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=beb3f7ea15e0553ce149d9b8cb3ce80b&oe=5F03087A"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.280.720.720a/s640x640/107025716_146935353635522_5944716825881952219_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rugvKmQf0hAAX-NWUYN&oh=b049cfa181591b48f7ebf0f2b1ae7b5d&oe=5F02AC9D",
+        "title": "One of my favorites inspired by @_edwardkevin choreo.",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTZmMmM1YjQ4NjU4NGZkY2FjOTg5YWY5NjBhZGQ1YTUyMzQ1NTM3NzAzMzE5NjEwOTY5Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg3NjIyMTU2NHwyMzQ1NTM3NzAzMzE5NjEwOTY5fDIyNDg4MTU5ODZ8OTY1ZWU1YjdlYzAyNzkyYzFkYzUwNzY2ZDU4ZThjNjRjMzRiOWU2YTg2MTY4NzcyNDI1YWU0MzNlYWMzNDMyMyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 244.6,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106953524_277373613471338_8969401926531570303_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=IE48EnLDCJMAX-jmDFf&oe=5F030FDE&oh=ca84e8087b0e186ae0e22a2fdd5f6d76",
+        "video_view_count": 390,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M53.300S\" maxSegmentDuration=\"PT0H0M2.020S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M53.300S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"540\" maxFrameRate=\"30\" par=\"4:3\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17848550897166037vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"540\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"578081\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:98.50,640:98.10,720:98.02\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106452301_125602042528881_3174722649721230864_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=109&amp;_nc_ohc=X73Z5cTNA-AAX9Q0xrm&amp;oh=6cb6898be95f63fd0326bf962db1c413&amp;oe=5F02FA8F</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-1269\" FBFirstSegmentRange=\"1270-74689\" FBSecondSegmentRange=\"74690-121486\" FBPrefetchSegmentRange=\"1270-121486\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17848550903166037v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"312\" height=\"234\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"159945\" FBQualityClass=\"sd\" FBQualityLabel=\"312w\" FBPlaybackResolutionMos=\"0:100.00,480:88.48,640:85.64,720:85.03\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106476863_2771842656470719_3754835705150517455_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=haR9QENLztIAX9V6t2I&amp;oh=2f66ca6b8b6904c61a0dcbf7b92c6626&amp;oe=5F02E37A</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-1269\" FBFirstSegmentRange=\"1270-26239\" FBSecondSegmentRange=\"26240-42879\" FBPrefetchSegmentRange=\"1270-42879\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17848550870166037ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"66202\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106475448_2636344723274442_8187242042720359603_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=Y_nit2U1nbwAX_DdoPM&amp;oh=27fe78867b35122ae913c80fc83cd061&amp;oe=5F02D288</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"870-1225\" FBFirstSegmentRange=\"1226-18484\" FBSecondSegmentRange=\"18485-34864\" FBPrefetchSegmentRange=\"1226-34864\">\n      <Initialization range=\"0-869\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 562,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 480,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=383cca5e9d58aefa547cd0fd7358559a&oe=5F02BB4B"
+            },
+            {
+                "config_height": 562,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=f7a515c9182cf82d41de5591b2dec2ab&oe=5F02EFF1"
+            },
+            {
+                "config_height": 810,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=f7a515c9182cf82d41de5591b2dec2ab&oe=5F02EFF1"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=f7a515c9182cf82d41de5591b2dec2ab&oe=5F02EFF1",
+        "edge_liked_by": {
+            "count": 21
+        },
+        "edge_media_preview_comment": {
+            "count": 3,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593838675,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17933109397378894",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8204484447",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/75208790_3279206038768421_8577581374239315335_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=xKk7K_lD8eUAX8DHcQv&oh=50cffc72e12ee7dc2dac4640f476323b&oe=5F2B9CEB",
+                            "username": "centerforphysicalexcellence"
+                        },
+                        "text": "@thegreaterprescottpodcast her whole western Attire \ud83e\udd20",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593839605,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17882394382630386",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "19503280222",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/94424664_886532418485124_1401812054796402688_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=sEUeYv6cTr4AX8FpmxB&oh=39d3a77b3ea84506388ca738dffca53e&oe=5F285377",
+                            "username": "brandedwestern"
+                        },
+                        "text": "Let\u2019s gooo",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 25,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "With the @worldsoldestrodeo in town this week we figured we would show you #fridayfit fit for a cowboy \ud83e\udd20. These Athletes have to make sure their  bodies are in tip top shape when grabbing the bull by the horns \ud83d\udc2e. Each of these exercises helps with trunk strength/stability which is a major factor for these rodeo athletes. Also, some shoulder strength and stability! #cowboyup #shouldabeenacowboy #worldsoldestrodeo #frontierdays #8seconds #whiplash #coreworkout #trunkstability #workout #exercise #exercisemotivation #fridayvibes #fitness #health #steerwrestling #broncriding #barrelracing #bullriding #cowboy #cowgirl"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 3
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 3,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593837438,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1593838675,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17933109397378894",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "8204484447",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/75208790_3279206038768421_8577581374239315335_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=xKk7K_lD8eUAX8DHcQv&oh=50cffc72e12ee7dc2dac4640f476323b&oe=5F2B9CEB",
+                                            "username": "centerforphysicalexcellence"
+                                        },
+                                        "text": "@thegreaterprescottpodcast her whole western Attire \ud83e\udd20",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17910569626460595",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "38401535955",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106026408_592667561682773_53367733399171167_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=hndkvKkZCO0AX8E5A9S&oh=05c780e6f0e31330aa33eaeed35edbdd&oe=5F29FC48",
+                            "username": "thegreaterprescottpodcast"
+                        },
+                        "text": "Is she in jeans & boots?! #ugogirl!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593839605,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17882394382630386",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "19503280222",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/94424664_886532418485124_1401812054796402688_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=sEUeYv6cTr4AX8FpmxB&oh=39d3a77b3ea84506388ca738dffca53e&oe=5F285377",
+                            "username": "brandedwestern"
+                        },
+                        "text": "Let\u2019s gooo",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Worldsoldestrodeo",
+                            "id": "1940417981",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/65048294_2389508041110828_8064157404431908864_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=sfzWTXZ9X_0AX-19wj8&oh=72788402f71c4342a557d726074499b6&oe=5F29FEBE",
+                            "username": "worldsoldestrodeo"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345528948958706445",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": {
+            "has_public_page": true,
+            "id": 3622039,
+            "lat": 34.5507845659,
+            "lng": -112.4845386863,
+            "name": "Prescott Frontier Days, Inc. - World's Oldest Rodeo",
+            "slug": "prescott-frontier-days-inc-worlds-oldest-rodeo"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ACof6Oqs12kR29T39v8AE+w9+lSTuY4yy9eg+p4z0PTr/OspPLhXzZGG452g8/TgZPPU0gJzdTcZ2pu6bsDPrjLf54p4vWQ4lX6Y6np+Hqc5HTvWDd3wuuTtBQYA5weeoJ/zx6Vr20kc8QiZl3IMdR07YNK+uuxTWmmrNZHVxuU5Bp1ZtpujkMfVeef/AEE+nIyP8a0qZIVgPbFCUB+YcqPUeo9x3Hat+sh9KLOziQjcScY4GT9f1qZK5cXYyZrfdxMGX0IUZz7+o/rzT0iNsuFTLAYZznGevOPbp7VonSCxyZScfX/HpQdJZhgyt6d/8aVnaxfMr3LWnxOiFpMBnPQdgOn496v1WtLf7NH5ed3JOT1qzVrRGTd3c//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 280
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 237
+            },
+            "followed_by_viewer": false,
+            "full_name": "Center for Physical Excellence",
+            "has_blocked_viewer": false,
+            "id": "8204484447",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/75208790_3279206038768421_8577581374239315335_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=xKk7K_lD8eUAX8DHcQv&oh=50cffc72e12ee7dc2dac4640f476323b&oe=5F2B9CEB",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "centerforphysicalexcellence"
+        },
+        "product_type": "feed",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCM_iblFDsN",
+        "taken_at_timestamp": 1593830459,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/s150x150/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=8963414c66f85221edc48b8ab2256d63&oe=5F027D32"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/s240x240/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=0a1a850350f7ac89d85180054e0607d3&oe=5F025E38"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/s320x320/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=083c53f4096eee6b1e335392c6d1cdd7&oe=5F02684A"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/s480x480/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=55298a5396630f49af5e507a71f5f710&oe=5F027CCF"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=e75f73cd10aa7281d921f27a99f47d03&oe=5F024A34"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c90.0.540.540a/106130295_3145874238864916_272623320373291848_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=1lwSv9hzsW4AX-tB9vg&oh=c2771f724ee0043b32f3aa5134fa86d2&oe=5F02F2F4",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2Q3MTUxZTRjNDM5NGExMDhjODNjYzNkN2E4ZjBkNGMyMzQ1NTI4OTQ4OTU4NzA2NDQ1Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg2MjM3NTg1M3wyMzQ1NTI4OTQ4OTU4NzA2NDQ1fDIyNDg4MTU5ODZ8NmQ3ZTQxMGI3MGU0ZTNmMmQwMjQ5MGQyNzc3ZmU4OGIyNDMxNDI1NjQ1OTc2ZDE0NjM3ZjkwMjQ3YWU5YjNkNyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 53.3,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106950587_290435558841390_5526436613988972507_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=q2C4pp2I7hUAX99C9xC&oe=5F02DF3A&oh=8441729849686980fa19bb2449682ace",
+        "video_view_count": 96,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

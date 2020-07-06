@@ -1,0 +1,163 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H1M39.767S\" maxSegmentDuration=\"PT0H0M2.020S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H1M39.767S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"1280\" maxFrameRate=\"30\" par=\"312:554\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17882328499640853vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"1280\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"869261\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:98.85,640:98.57,720:98.14\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_664962637432281_606634891558553180_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=109&amp;_nc_ohc=r2Jd5KA7EtMAX87TYpk&amp;oh=9c1cb24b045e3a3710752894bdfad938&amp;oe=5F02EA01</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"906-1537\" FBFirstSegmentRange=\"1538-67786\" FBSecondSegmentRange=\"67787-269461\" FBPrefetchSegmentRange=\"1538-269461\">\n      <Initialization range=\"0-905\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17882328547640853v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"312\" height=\"554\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"247313\" FBQualityClass=\"sd\" FBQualityLabel=\"312w\" FBPlaybackResolutionMos=\"0:100.00,480:95.74,640:94.98,720:93.94\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106894048_153935269562780_386690681562409029_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=6o773uwdD5YAX94GFOL&amp;oh=94cdcb63a5967f3a49b88be78760cdf4&amp;oe=5F02F102</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"907-1538\" FBFirstSegmentRange=\"1539-21794\" FBSecondSegmentRange=\"21795-78435\" FBPrefetchSegmentRange=\"1539-78435\">\n      <Initialization range=\"0-906\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17882328385640853ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"130047\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106544967_2707428652909959_8466303610999241589_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=qSS_ROq_IdEAX-ZH9s2&amp;oh=20c77e5fda4b2f6e3a77b3f61a5d8ec6&amp;oe=5F0369F1</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1497\" FBFirstSegmentRange=\"1498-33933\" FBSecondSegmentRange=\"33934-66343\" FBPrefetchSegmentRange=\"1498-66343\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 995,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=a99b6f1005be8cff2a6e53eefa915299&oe=5F02FA77"
+            },
+            {
+                "config_height": 1166,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=a99b6f1005be8cff2a6e53eefa915299&oe=5F02FA77"
+            },
+            {
+                "config_height": 1680,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=a99b6f1005be8cff2a6e53eefa915299&oe=5F02FA77"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=a99b6f1005be8cff2a6e53eefa915299&oe=5F02FA77",
+        "edge_liked_by": {
+            "count": 11
+        },
+        "edge_media_preview_comment": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_media_preview_like": {
+            "count": 11,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "karena cuaca pagi ini kurang cocok buat ngegowes, jadiiii pagi ini olahraganya di rumah ajah...\nBack to workout!!! yuhuuu\n\n#bismillah \n#gerakpagi \n#workout \n#workoutinthemorning \n#workoutagain \n#gagalgowes \n#ikhtiarbiarsehat\n#alhamdulillah"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345530734515455381",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABsq6aiozKinBYAj1Ip5YDqcZ4HuaAFopCccmigChcabFcSea24HjocdPw78A+wFUBZ2mOZTlT1ZgCNrMDgEdCTzxzj3Od+qEumW8mfl2k9weeTk9c4yaAKkemwTqSryMuWB5GD29Pxz36nNa8abFCjooA/IYpsMKQLsjG1R2qWgAooooAKKKKAP/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 552
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 337
+            },
+            "followed_by_viewer": false,
+            "full_name": "ghofar ismail",
+            "has_blocked_viewer": false,
+            "id": "4339565940",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/90473938_1170812503250268_5067028199062372352_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=kL2bux874yYAX_lGNce&oh=71c47c5f7ec678b72be6aec9c5125d00&oe=5F2A27AA",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "ghofaris_"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCM_8agjgWV",
+        "taken_at_timestamp": 1593829152,
+        "thumbnail_resources": [
+            {
+                "config_height": 233,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=dfe572fa6dae139d955f1871784641ae&oe=5F03665A"
+            },
+            {
+                "config_height": 373,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=034d89faa23cd5b25c669e1c3796be42&oe=5F0351A0"
+            },
+            {
+                "config_height": 497,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=0f2ce680ac770cebab97f615707c395e&oe=5F0369A2"
+            },
+            {
+                "config_height": 746,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=7a652348b18e2b17529969181c412e7a&oe=5F0318A7"
+            },
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=a99b6f1005be8cff2a6e53eefa915299&oe=5F02FA77"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.150.540.540a/106255529_298574611522759_2492841946664218083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8cVLLrrsB6sAX_opn1w&oh=c9d5f3ce0c89285c69da950f7491cec2&oe=5F033CB4",
+        "title": "Workout Lagi Sabtu Pagi",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjljY2IyYjc3MWYwZjQ3NTQ4NGM3MWU4OWRkODdlN2VlMjM0NTUzMDczNDUxNTQ1NTM4MSIsInNlcnZlcl90b2tlbiI6IjE1OTM4ODczNDIwMTV8MjM0NTUzMDczNDUxNTQ1NTM4MXwyMjQ4ODE1OTg2fDM2YjM1YzQ1MDQ3MTVkMGY3Yzg2N2Y2ZjI0YjNmN2FiYWE5NmE2OTQxZDBhNzA3NzJlNTgyZWQyYTRlNDVhM2MifSwic2lnbmF0dXJlIjoiIn0=",
+        "video_duration": 99.733,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106298117_105477081161605_2075185156921653646_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=3gw-xsR4PGgAX_aEeOW&oe=5F031A35&oh=156719d57daf816bc7e679642fc64bb4",
+        "video_view_count": 37,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

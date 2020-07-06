@@ -1,0 +1,163 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": "Video by Flight 14 Productions on July 03, 2020. Image may contain: screen",
+        "caption_is_edited": false,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M5.700S\" maxSegmentDuration=\"PT0H0M2.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M5.700S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"1:1\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17870894248828825vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"365880\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:99.17,640:98.96,720:98.60\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106638773_3082662791823627_8301794089138512918_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=JiJt6JF5ArsAX8-x5pP&amp;oh=29af067fa19e386351ab9a1edbecbb3d&amp;oe=5F03213B</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-980\" FBFirstSegmentRange=\"981-91721\" FBSecondSegmentRange=\"91722-181771\" FBPrefetchSegmentRange=\"981-181771\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17870894251828825v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"312\" height=\"312\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"103802\" FBQualityClass=\"sd\" FBQualityLabel=\"312w\" FBPlaybackResolutionMos=\"0:100.00,480:96.34,640:95.12,720:93.43\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106449472_729682784515678_7521870509393107827_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=AkQtnKilHm4AX_Q3ya2&amp;oh=b95ae84800f5716ef72f5607c75d876c&amp;oe=5F03355A</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-981\" FBFirstSegmentRange=\"982-25805\" FBSecondSegmentRange=\"25806-52045\" FBPrefetchSegmentRange=\"982-52045\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=541b08e76b9c45ce5783772b0e4f8456&oe=5F030F0B"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=72796302d1e468ba51a82bcaa43b0c79&oe=5F02C9F0"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=72796302d1e468ba51a82bcaa43b0c79&oe=5F02C9F0"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=72796302d1e468ba51a82bcaa43b0c79&oe=5F02C9F0",
+        "edge_liked_by": {
+            "count": 5
+        },
+        "edge_media_preview_comment": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_media_preview_like": {
+            "count": 5,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Work Work Work Work.....\n#iproduce #music #love #blacklivesmatter #gospel #hiphop #r&b #rocknroll #workout #studio #krk #yamaha #presonus"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": false,
+        "has_ranked_comments": false,
+        "id": "2345540136735031404",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACoqwc1fEKjAJwRjP+f8KzgameUvjOcimWdCs6sBgH5fT/63P6VjyAlfMOPmP8yfw7cjtVZZDmpYgoIZs4HPHzDPuPT1ptvqRGKV2uo5nXavPIGMf1pu+pJLczsXjZGJ5wPlx9Aah+xzf3TQpW6lteRWpRUscW7k9KkEKjnmpuOxAMZpckHI4PtU7R5qORT1pXGHndmAb36H8xWisLED7w4/vmqFvGHkAPbk/hWvj6/nWc3bRFxXczFfJI6EdqfSU4VRIYpduaBThSGNRNhyOKseYaipal6lJ2P/2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 14
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 2
+            },
+            "followed_by_viewer": false,
+            "full_name": "Flight 14 Productions",
+            "has_blocked_viewer": false,
+            "id": "38319890032",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106406945_633545504176831_1244382096120750083_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=GYZ_dS3H8eEAX87BIJP&oh=a9e10214894b0ebb3399a6aed45ed952&oe=5F2AC0CE",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "flight14productions"
+        },
+        "product_type": "feed",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCNCFPAg0Bs",
+        "taken_at_timestamp": 1593830353,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=f19f48e7f3ff8cce55bf435d47faa9a8&oe=5F032EAE"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=6b376a934e06df4a86d5c452e98398a1&oe=5F0300E8"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=8bea31616d58346e9c826ac4d1bb3ae0&oe=5F02A31E"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=1b9a535442f9758be7d6150f34a8abd0&oe=5F033548"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=541b08e76b9c45ce5783772b0e4f8456&oe=5F030F0B"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106277086_273784247381172_349041432527976134_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DYpoCDx2Vz4AX_ut0nT&oh=541b08e76b9c45ce5783772b0e4f8456&oe=5F030F0B",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDMyMGVkMDdkNzBlNDY2ZTkxOTEzNGM1OWNhOTkxMGMyMzQ1NTQwMTM2NzM1MDMxNDA0Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg3NDA5Mjg2MXwyMzQ1NTQwMTM2NzM1MDMxNDA0fDIyNDg4MTU5ODZ8MjNjNGFmNzM1ODJkZTQxODgyNDNjYTM2YmJiNTgzZjQ1NmRjZTcyYWVkYTI4NmY0ZTE3ZTgwMmUxMDE4ZWJiYiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 5.7,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/107306565_271448463918586_2936577838323737974_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=fPDWGWSSFdIAX_mIOR5&oe=5F029CCB&oh=c0f01d413ff432181e469623891a9b51",
+        "video_view_count": 4,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

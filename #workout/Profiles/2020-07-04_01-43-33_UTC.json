@@ -1,0 +1,257 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H2M59.435S\" maxSegmentDuration=\"PT0H0M2.005S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H2M59.435S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"1280\" maxFrameRate=\"30\" par=\"720:1280\" lang=\"eng\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17888486686593715vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"1280\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"2917372\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:98.48,640:97.03,720:96.20\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_583718452544751_1931183869885062259_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=46ZyO-h6u4oAX86U0XV&amp;oh=9a505dc7be4dd598f7236a74a9815a24&amp;oe=5F031821</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"926-2037\" FBFirstSegmentRange=\"2038-983025\" FBSecondSegmentRange=\"983026-1944391\" FBPrefetchSegmentRange=\"2038-1944391\">\n      <Initialization range=\"0-925\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17888486800593715v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"346\" height=\"616\" frameRate=\"30\" sar=\"693:692\" startWithSAP=\"1\" bandwidth=\"611292\" FBQualityClass=\"sd\" FBQualityLabel=\"346w\" FBPlaybackResolutionMos=\"0:100.00,480:85.38,640:73.03,720:68.93\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/10000000_588287312125340_6709335765651978910_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=3UJFTvYjWYMAX_Bbsh9&amp;oh=0e28541d2b80017971a82995b4db10c3&amp;oe=5F03156D</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"931-2042\" FBFirstSegmentRange=\"2043-200739\" FBSecondSegmentRange=\"200740-410728\" FBPrefetchSegmentRange=\"2043-410728\">\n      <Initialization range=\"0-930\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"eng\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17888486452593715ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"48000\" startWithSAP=\"1\" bandwidth=\"130101\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.16885-16/106923923_1712148792287646_8046144538470810938_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=p7qlkuea5LsAX8tnjIP&amp;oh=b74f6183bcf11624d19b993db4859054&amp;oe=5F031239</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1977\" FBFirstSegmentRange=\"1978-34833\" FBSecondSegmentRange=\"34834-67423\" FBPrefetchSegmentRange=\"1978-67423\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 1087,
+            "width": 612
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=2740a957010323997c063b83a2ceb989&oe=5F02F4E7"
+            },
+            {
+                "config_height": 1332,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=2740a957010323997c063b83a2ceb989&oe=5F02F4E7"
+            },
+            {
+                "config_height": 1918,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=2740a957010323997c063b83a2ceb989&oe=5F02F4E7"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=2740a957010323997c063b83a2ceb989&oe=5F02F4E7",
+        "edge_liked_by": {
+            "count": 39
+        },
+        "edge_media_preview_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593832570,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17843202527270194",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1676309578",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/91614754_3164660570235235_7218897227714920448_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=RFZh38J7RgoAX_fHKE5&oh=7197133a3eabaff34d06972753427da9&oe=5F29938E",
+                            "username": "sofiaadv01"
+                        },
+                        "text": "\ud83d\udd1d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593835844,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17867956570867723",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4945272412",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106173418_280995019778016_9064461496301675300_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=YtRlzken8SwAX96jx4R&oh=3e4d2f3fb7d21e33b10b3d13f501fa75&oe=5F2A80E7",
+                            "username": "tcardinal7"
+                        },
+                        "text": "Right there is where I hit a walkoff 3 run homer",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 39,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "@coachkazbaseball tells us his three most effective tee drills to hit the ball harder and get a higher exit velocity. Be sure to subscribe to our youtube channel, at 1000 subscribers we are giving away one subscriber a custom @44progloves. @obahighlights @rhphoenix2006 #ElevationBaseball #ElevationBaseballca #baseball #hitting #hittingdrills #baseballdrills #44progloves #44 #glovegiveaway #baseballgiveaway #baseballglovegiveaway #Baseball #BaseballCanada #BaseballOntario #baseballlifestyle #hitting #workout #teedrills #exitvelo #baseballdrills #drills #gettingbettereveryday #baseballism #baseballdesign #futureofbaseball #hittingtips"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593832570,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17843202527270194",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1676309578",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/91614754_3164660570235235_7218897227714920448_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=RFZh38J7RgoAX_fHKE5&oh=7197133a3eabaff34d06972753427da9&oe=5F29938E",
+                            "username": "sofiaadv01"
+                        },
+                        "text": "\ud83d\udd1d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593835844,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17867956570867723",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4945272412",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/106173418_280995019778016_9064461496301675300_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=YtRlzken8SwAX96jx4R&oh=3e4d2f3fb7d21e33b10b3d13f501fa75&oe=5F2A80E7",
+                            "username": "tcardinal7"
+                        },
+                        "text": "Right there is where I hit a walkoff 3 run homer",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345487767083104160",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABcqmEirhDJt6gg4wOM888Z6DNKGiX+ND6YIJP4VUe9UHdGA6kZIOBz054PTr1+lMe/4+4nPYcY/8d/HrWlyLFq7liEZAYMSQAAQT69j0xRWZPOspGI1QjuD29OgFFS3cEiw1qkC5zn60yWIRR+aDkMOBjgd60HTJVj0Ht605UAVl6g9B25H+NSzT8zDhDTOEB5OT0H9KK1bWEQLt4JGfmA9e3rRQvIT8yy7Mpwrqg9Cue3XORgfh1qPzHHSVO3VBjJ4wDu7d+uCST6VFsVzlgCfUjNBjXpgY9MDv1/PvTuKxLuY/edX9AoA+pPJz6CioAoUfKAMntxRQB//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 182
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 3
+            },
+            "followed_by_viewer": false,
+            "full_name": "Elevation Baseball",
+            "has_blocked_viewer": false,
+            "id": "26747738656",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/101054368_757680555060496_7860792304989110272_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=aIifV1dTBNEAX-l7uWd&oh=baa6134a8cd27fbd1bbf4e580b0b8846&oe=5F297072",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "elevationbaseballca"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCM2LJ-Azeg",
+        "taken_at_timestamp": 1593827013,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/p150x150/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=442a337aa5fbb6ed5455c91aff888fbe&oe=5F02FE9E"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/p240x240/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=b24fc01e44e1478166b60423b9c93859&oe=5F03411C"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/p320x320/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=82370f2a892fe0198e02bf59a723c9c6&oe=5F034126"
+            },
+            {
+                "config_height": 852,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=8e99741b146a4ef7af974be17e52cafd&oe=5F02FB23"
+            },
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=2740a957010323997c063b83a2ceb989&oe=5F02F4E7"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e15/c0.237.612.612a/106384320_613290685958577_3085614113601286754_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xrX_OVKXH8MAX-y3QpA&oh=fcfc3ab7e74e28f810ada6b060b91b66&oe=5F02BF7C",
+        "title": "3 Tee (Hitting) Drills Every Hitter Must Do To Gain Exit Velocity!",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjhmNDA0OTYxNDdkZjQzZGNiMThjMTA2ZTJiNGE5ZTQyMjM0NTQ4Nzc2NzA4MzEwNDE2MCIsInNlcnZlcl90b2tlbiI6IjE1OTM4Nzk0MjY1NTl8MjM0NTQ4Nzc2NzA4MzEwNDE2MHwyMjQ4ODE1OTg2fGQ5YzUxYWY3OGFkM2NjMWQ3ZTMwMDZjZTViYTBjYTQyYTYwZjlmMDZlYzYwZThhY2FhYjQyZDQ5OTdlOWY3MmUifSwic2lnbmF0dXJlIjoiIn0=",
+        "video_duration": 179.362,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106512482_172314884330109_4814215171154614862_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=kItyx7h1DesAX9R19cW&oe=5F030B64&oh=e592e444284f2b9a51b0af6130af5306",
+        "video_view_count": 215,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

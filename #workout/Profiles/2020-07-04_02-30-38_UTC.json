@@ -1,0 +1,311 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 1,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M7.600S\" maxSegmentDuration=\"PT0H0M2.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M7.600S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"900\" maxFrameRate=\"30\" par=\"720:900\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17899706719502404vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"900\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"5607062\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:95.41,640:92.71,720:88.10\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106739312_917252168771576_7961895774565797805_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=t5hEw9x-znsAX_DpWqC&amp;oh=05dbe4a0bf0d585fdf2a025ac5cf19df&amp;oe=5F030883</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"915-994\" FBFirstSegmentRange=\"995-1640612\" FBSecondSegmentRange=\"1640613-2947793\" FBPrefetchSegmentRange=\"995-2947793\">\n      <Initialization range=\"0-914\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17899706695502404ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"68183\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106768989_559329521384280_7197469836561511873_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=35j7OBsFMikAX9JsXMn&amp;oh=5699ee9fd4187dfcb4043755fc01c2d4&amp;oe=5F031184</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"870-949\" FBFirstSegmentRange=\"950-18350\" FBSecondSegmentRange=\"18351-34802\" FBPrefetchSegmentRange=\"950-34802\">\n      <Initialization range=\"0-869\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 937,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=f1803102ddc631989af95be028ae422c&oe=5F02D215"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=3fbf102735d283edc15ff92126c2dce9&oe=5F03073F"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=3fbf102735d283edc15ff92126c2dce9&oe=5F03073F"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=3fbf102735d283edc15ff92126c2dce9&oe=5F03073F",
+        "edge_liked_by": {
+            "count": 30
+        },
+        "edge_media_preview_comment": {
+            "count": 4,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593836588,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17923972435414501",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "10831715",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/10899066_1603228143270757_1384107256_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=8wCLNiiUQHIAX8fncEs&oh=1de8e142f0edc70c9cf7e38c4cefa04b&oe=5F2C17D8",
+                            "username": "helenjaman"
+                        },
+                        "text": "Love this kid \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593840958,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17850196718142042",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "212480303",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/1688326_403742039799346_1589755056_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=Xv4Js3nu8gIAX8nGiGg&oh=59d413933131d8333ecf4454a4fce198&oe=5F2BC441",
+                            "username": "positive_k9_training"
+                        },
+                        "text": "20k steps a day \ud83d\udcaa",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 30,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"\ud835\ude44\ud835\ude49 \ud835\ude54\ud835\ude4a\ud835\ude50\ud835\ude4d \ud835\ude40\ud835\ude53\ud835\ude4b\ud835\ude40\ud835\ude4d\ud835\ude44\ud835\ude40\ud835\ude49\ud835\ude3e\ud835\ude40, \ud835\ude52\ud835\ude43\ud835\ude3c\ud835\ude4f\u2019\ud835\ude4e \ud835\ude4f\ud835\ude43\ud835\ude40 \ud835\ude4e\ud835\ude44\ud835\ude48\ud835\ude4b\ud835\ude47\ud835\ude40\ud835\ude4e\ud835\ude4f \ud835\ude47\ud835\ude44\ud835\ude41\ud835\ude40\ud835\ude4e\ud835\ude4f\ud835\ude54\ud835\ude47\ud835\ude40 \ud835\ude3e\ud835\ude43\ud835\ude3c\ud835\ude49\ud835\ude42\ud835\ude40 \ud835\ude4f\ud835\ude43\ud835\ude3c\ud835\ude4f \ud835\ude4b\ud835\ude4d\ud835\ude4a\ud835\ude51\ud835\ude44\ud835\ude3f\ud835\ude40\ud835\ude4e \ud835\ude4f\ud835\ude43\ud835\ude40 \ud835\ude3d\ud835\ude44\ud835\ude42\ud835\ude42\ud835\ude40\ud835\ude4e\ud835\ude4f \ud835\ude44\ud835\ude48\ud835\ude4b\ud835\ude3c\ud835\ude3e\ud835\ude4f \ud835\ude4f\ud835\ude4a \ud835\ude43\ud835\ude40\ud835\ude3c\ud835\ude47\ud835\ude4f\ud835\ude43 & \ud835\ude41\ud835\ude44\ud835\ude4f\ud835\ude49\ud835\ude40\ud835\ude4e\ud835\ude4e?\"\n.\nIf possible, walk more.\n.\nIt doesn\u2019t cost a thing, has a near non-existent learning curve for most people, relatively easy on the body, and even stress relieving for many.\n.\nYou can set aside time daily to do it, or make a point to park your car further where you work or do your shopping. Take the stairs where practical, walk your dog\u2026 the possibilities are almost endless.\n.\nAnd, no, you don\u2019t necessarily have to hit 10,000 steps daily.\n.\nGiven how sedentary many of us are (eg. ~2,000 daily) even a slight increase is better than nothing \u2014 especially if you can do it consistently \u263a\ufe0f.\n.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis is absolutely pulled off an old asf Q&A. Still true asf though IMO.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nCollar, leash, tug all from @k9tacticalgear \ud83d\ude0d\n.\n#thesepootatoesaremadeforwalkin"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 4
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 4,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593829990,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17888479693595854",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "19468261",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/19425473_1351825594886693_5319879984704126976_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=QBADjq2CGQIAX_rt_5U&oh=eafd86bdcb5e8afd1453bc47fd899b80&oe=5F29A3D4",
+                            "username": "miguelmoralespt"
+                        },
+                        "text": "#cardio #health #healthy #playwithyourdog #hearthealth #fitness #training #workout #personaltrainer",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593832565,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18027224140278907",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "200041994",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/13712739_376836649107226_1910795063_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=YNtsmI47G6IAX9Sbe3Q&oh=9285ca46048a42ba2093d8830e9371a6&oe=5F293372",
+                            "username": "biancablaze"
+                        },
+                        "text": "\ud83d\ude4c\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593836588,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17923972435414501",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "10831715",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/10899066_1603228143270757_1384107256_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=8wCLNiiUQHIAX8fncEs&oh=1de8e142f0edc70c9cf7e38c4cefa04b&oe=5F2C17D8",
+                            "username": "helenjaman"
+                        },
+                        "text": "Love this kid \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1593840958,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850196718142042",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "212480303",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/1688326_403742039799346_1589755056_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=Xv4Js3nu8gIAX8nGiGg&oh=59d413933131d8333ecf4454a4fce198&oe=5F2BC441",
+                            "username": "positive_k9_training"
+                        },
+                        "text": "20k steps a day \ud83d\udcaa",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "2345536706817916374",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACEq0jMelRlzUAyxweT1qXbgZrmGO3k9/pSFmPemhxwOM+n0/pSMwYZ/I0wJPMf+9RUO72H50UrgNlfC7hwV57/l9D3/AAPaqP26U5IUED2NWpmGMHjdwPr+P/16bAQB8vCjp15Pc5/lTTSWquIpCR52yew7ccHqB7mtABgqj7uOufTHQe9QqcyYX6t2Ge3H06+tWNx6nk+3+c1TlfQA3fT9KKTzT7/n/wDWoqAM64YbgB0H9f8A61Mec4ATj3H8sVXc8/jT14UnvWltCCzGxAJxlv4j/n64qyGLYGMHscnj/P41Xh4jGPU1Yj7j3/pUMY/e394/5/CimZNFSM//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 1547
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 939
+            },
+            "followed_by_viewer": false,
+            "full_name": "Miguel Morales",
+            "has_blocked_viewer": false,
+            "id": "19468261",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/19425473_1351825594886693_5319879984704126976_a.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=QBADjq2CGQIAX_rt_5U&oh=eafd86bdcb5e8afd1453bc47fd899b80&oe=5F29A3D4",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "miguelmoralespt"
+        },
+        "product_type": "feed",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCNBTUphX3W",
+        "taken_at_timestamp": 1593829838,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s150x150/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=dbacba27de8bdbff909f1fdd68048d97&oe=5F02D3A8"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s240x240/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=6fff1fe01e4c85950140047ded05076c&oe=5F02BF22"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s320x320/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=165856cf1baf05f47c5bf5171f51e915&oe=5F02F020"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s480x480/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=647ec7c234bf58f184536c8a5d458f1d&oe=5F030119"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=86708cc78425216a9a2c5b28ec85d006&oe=5F034C54"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/106034635_593479094887076_1480060253393773606_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fyrCOzzWyG0AX-9irsL&oh=86708cc78425216a9a2c5b28ec85d006&oe=5F034C54",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmM1MTQ1YWYzYzVjNDE4ZDk3M2E5MTRhY2RlZTg3ZmYyMzQ1NTM2NzA2ODE3OTE2Mzc0Iiwic2VydmVyX3Rva2VuIjoiMTU5Mzg4MDA1MjE0NHwyMzQ1NTM2NzA2ODE3OTE2Mzc0fDIyNDg4MTU5ODZ8MzFmYmQ3M2NiNjhiOTc5N2ZmYWFkMjE3NjFiNjg1OGY3OWM4MzJhNjMwM2ZkZmU1Mzc4YTc1MTMyZWM0MDY1OSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 7.6,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106792742_811513842713944_6125629336598042909_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=jP7vg7CqnLcAX_G2pcw&oe=5F02CE70&oh=e221791e57715497a0073b70478cbe34",
+        "video_view_count": 191,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

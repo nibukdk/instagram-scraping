@@ -1,0 +1,211 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.4.4"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": "Video by D. Felicia Mclain on July 03, 2020. Image may contain: 1 person",
+        "caption_is_edited": false,
+        "clips_music_attribution_info": null,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M5.400S\" maxSegmentDuration=\"PT0H0M2.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M5.400S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"1:1\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17848789334189305vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"342013\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:99.36,640:98.97,720:98.42\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106832020_731836454216056_5997428840297472241_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=8LmdOuZN8NIAX94ZLW-&amp;oh=b098be70ab40ab2e2259c8c56aad33f6&amp;oe=5F03250B</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-980\" FBFirstSegmentRange=\"981-82450\" FBSecondSegmentRange=\"82451-164562\" FBPrefetchSegmentRange=\"981-164562\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17848789346189305v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"316\" height=\"316\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"108540\" FBQualityClass=\"sd\" FBQualityLabel=\"316w\" FBPlaybackResolutionMos=\"0:100.00,480:95.97,640:93.45,720:90.44\">\n    <BaseURL>https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106951533_612385892991867_6939776560397578118_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=nhESS_ZSly8AX8YZ_jv&amp;oh=bfcde8b0c2484682ba12cb08c8df123b&amp;oe=5F02DF76</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-981\" FBFirstSegmentRange=\"982-26474\" FBSecondSegmentRange=\"26475-52311\" FBPrefetchSegmentRange=\"982-52311\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>"
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=28e51ef79460bfa19d5614d4774bcd91&oe=5F03162A"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=63e2d80525aa49caecb2349963bc7f6f&oe=5F032C0D"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=63e2d80525aa49caecb2349963bc7f6f&oe=5F032C0D"
+            }
+        ],
+        "display_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=63e2d80525aa49caecb2349963bc7f6f&oe=5F032C0D",
+        "edge_liked_by": {
+            "count": 39
+        },
+        "edge_media_preview_comment": {
+            "count": 1,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593830434,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18113017369141285",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "52319098",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/97586270_728483897890407_6420341543281885184_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=PeS9xA4MuAoAX9ga8uO&oh=083adf8868e9b088ac66bf6819988db0&oe=5F29C663",
+                            "username": "krisfitchick_hb"
+                        },
+                        "text": "\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 39,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "SLOWLY CREEPING UP ON OUR YEAR AT D4D @trueblackhoney \ud83d\udd25 I CAUGHT THIS CLIP ADMIRING NENA AT HER SESSION \ud83d\ude0d\ud83d\udd25 THE NATURAL WAY \u2705\ud83d\udd25 REAL RESULTS \u2705\ud83c\udf51SMALL GROUP TRAINING. ONE ON ONE INDIVIDUAL SESSIONS. D4D BOOTCAMPS.  WEBSITE LINK LOCATED IN MY BIO \u2728 \ud83d\udd25 ? \u2728 I AM NOW ACCEPTING NEW CLIENTS! LIMITED TIME SLOTS AVAILABLE! Real Consistency. Real Dedication. Real Results . What you put in your body COUNTS!  Designed for Destiny \u2728\u2728 \u2728book your sessions today! #fit #fitness #houstontrainer #houstonpersonaltrainer #weightloss #weightlossjourney #transformation #exercise #workout #eatclean #motivation #grind #newbusiness #entrepreneur"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 1,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1593830434,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18113017369141285",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "52319098",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/97586270_728483897890407_6420341543281885184_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=PeS9xA4MuAoAX9ga8uO&oh=083adf8868e9b088ac66bf6819988db0&oe=5F29C663",
+                            "username": "krisfitchick_hb"
+                        },
+                        "text": "\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": false,
+        "has_ranked_comments": false,
+        "id": "2345538190972033292",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACoqtyuy565z6npnp6VW+2dCdxTOOuKuSW5cnLNgnpxj8qpfZD+AGcds1ibbltZGkjwCQQwyfbrSMzDu35n1pDF5CFgT2z6ZrPErmWMs3+0CBxnJxmnYpNLdGks7jjOe3PrV5DlQT6CsveWUs4IAJOR3HcitKLGxcDjAx9MUIUrdCLzF3Yzzmshr4c8c5/z3qVrlRKQFJwzDt9P/AK9ZDIVJHocfn0ppEHSXA3QknkcHj061ThIXCgcFRjPbrUkMpVSCCAoUdQfameYjMTgH6t+mMGkU0+xGZNgZdzHaCccZH/1vfpz0rXt2zEh9VX+QrIZMNlQAGB35OcY6YOAcf5NbEQbYucZwOnTp2pktNbmSygSsf9o/zNROPvDPzE5X6f5zW0YkJ5UfkKb5SZztXP0FBSlZWt/T0Ma7kDQtjHBXp9azEdui9660Qx4Pyrz14FHkR/3F/wC+R/hTRLd3daGHGXK4Rth6HHp6dz7n8K3ogdi5OTtGT68daj+zRA5CID/uj/CrAGBQK9z/2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 6337
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 5062
+            },
+            "followed_by_viewer": false,
+            "full_name": "D. Felicia Mclain",
+            "has_blocked_viewer": false,
+            "id": "31027472",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-19/s150x150/61833265_471997400224921_5321996076436160512_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_ohc=DvUX7Dl8VBoAX8zi9XG&oh=eb02d35659c44fa579ffe400286f7ff9&oe=5F2BDC21",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "designedfordestiny"
+        },
+        "product_type": "feed",
+        "sensitivity_friction_info": null,
+        "shortcode": "CCNBo64ABkM",
+        "taken_at_timestamp": 1593830082,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=15cebfab5b07399db3e1cdbbe275451d&oe=5F02F9CF"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=535f9b2243df0879a27b3e04946eb697&oe=5F02A405"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=a461af08a3ad22194c9dd75f65fcb635&oe=5F033A7F"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=b152ffe1e32a734f27582f680806d86b&oe=5F02CBA5"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=28e51ef79460bfa19d5614d4774bcd91&oe=5F03162A"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hel2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/106188832_592051908400131_778550299455158708_n.jpg?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=sGDC_qj_h14AX-3a2um&oh=28e51ef79460bfa19d5614d4774bcd91&oe=5F03162A",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2FkNmU0MzYwZTlhNDAxMWI3NmRiOTJiMzM4MDU2YmMyMzQ1NTM4MTkwOTcyMDMzMjkyIiwic2VydmVyX3Rva2VuIjoiMTU5Mzg3OTM3NDc4NnwyMzQ1NTM4MTkwOTcyMDMzMjkyfDIyNDg4MTU5ODZ8YWExM2YxNjQwYjg2NzcwNDk4ZTM1MjhhNmM1ZmVlYzcwYTEyZGViNTJmNWRhYjEwZDkwNzg0NmNjYmE3NTU4ZiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 5.4,
+        "video_play_count": null,
+        "video_url": "https://scontent-hel2-1.cdninstagram.com/v/t50.2886-16/106875404_372351357076709_260034842083086327_n.mp4?_nc_ht=scontent-hel2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=2Od8MTh186sAX81TWxa&oe=5F02F997&oh=8e6aa18c35e1a03a374e552cb40d8032",
+        "video_view_count": 224,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
