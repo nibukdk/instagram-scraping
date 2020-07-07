@@ -50,5 +50,55 @@ The data on #workout instagram post is available from 5th of January to 4th of J
 
 ## Most uploaded Post Format
 
-![img]()
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Uploaded%20Format%20Portions.png)
 
+Image is the most uploaded format followed by videos and sidecar respectively.
+
+## Countries Ranking by Most liked videos
+
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Addresses%20by%20Like%20on%20Videos.png)
+
+Australia takes top spot on most liked videos by countries, while Germany stands last, keeping on mind unkown addresses are not included.
+
+
+## Ranking of Countries by Images likes
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Addresses%20By%20Images%20likes.png)
+
+The address is given as yoga, which is probably the mention of pic doing yoga which has the most likes. And Canda,Kansas,Usa has the least likes from the tail display of image.
+
+
+## Correlation Analysis
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Correlation.png)
+
+There is high correlation between the two columns likes and comment numbers.
+
+## User Popularity
+ 
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Avg%20Ranking%20Top%205%20users.png)
+
+ The username *motihari_shootout* has only one post which has 5598 likes and 216 comments. The user *student_shubham* (from data)also has only one post, which is image that gained massive popularity with 1309 comments putting him/her at top for comments.
+
+ ## Popularity by Upload Formats
+
+### Popularity Based on Likes By Upload Format
+
+
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Users%20Likes%20By%20Upload.png)
+
+ For image user *motihari_shootout* has most likes, while user *hada_eri* has most likes in sidecar formats and *nikalemusic* for video formats.
+
+
+### Popularity By comments Based on Upload Formats
+
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/User%20comments%20by%20Upload.png)
+
+
+The result is similar to the result based on likes for video fomats. However, as far as top commented post by users on sidecar the winner is *garry626226* and *student_shubham* for most commented image uploading user.
+
+
+
+## Most Active Users
+
+![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Most%20active%20users.png)
+
+User by username "ka.the6661" has most post. Lets get into more details for this user. From Further analysis(check notebook), User seems to have uploaded all post in a day to be precise user has posted in about 30 min 44 posts.Since our data has limited timelines. Its not for sure if user is new user or has been recently active.Uploads of the data is from different places as well.
