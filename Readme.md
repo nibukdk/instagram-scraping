@@ -54,14 +54,14 @@ The data on #workout instagram post is available from 5th of January to 4th of J
 
 Image is the most uploaded format followed by videos and sidecar respectively.
 
-## Countries Ranking by Most liked videos
+## Places Ranking by Most liked videos
 
 ![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Addresses%20by%20Like%20on%20Videos.png)
 
 Australia takes top spot on most liked videos by countries, while Germany stands last, keeping on mind unkown addresses are not included.
 
 
-## Ranking of Countries by Images likes
+## Ranking of Places by Images likes
 ![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Addresses%20By%20Images%20likes.png)
 
 The address is given as yoga, which is probably the mention of pic doing yoga which has the most likes. And Canda,Kansas,Usa has the least likes from the tail display of image.
