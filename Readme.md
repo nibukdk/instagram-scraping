@@ -70,7 +70,7 @@ The address is given as yoga, which is probably the mention of pic doing yoga wh
 ## Correlation Analysis
 ![img](https://github.com/nibukdk/instagram-scraping/blob/master/Imgs/Correlation.png)
 
-There is positive but low correlation between the two columns likes and comment numbers.
+There is positive but low correlation between the two columns likes and comment numbers. It can be said that number of likes in an upload does not determine the comments on that posts.
 
 ## User Popularity
  
